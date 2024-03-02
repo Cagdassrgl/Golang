@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// Defer anahtar kelimesi bir işlemi ertelemeye yarar. await'e benzer.
+	// Defer anahtar kelimesi bir işlemi ertelemeye yarar.
 	// defer fmt.Println("1. işlem")
 	// defer fmt.Println("2. işlem")
 	// defer fmt.Println("3. işlem")
